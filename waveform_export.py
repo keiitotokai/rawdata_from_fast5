@@ -5,7 +5,7 @@ import glob
 import os
 import sys
 from tqdm import tqdm
-#import time
+import time
 
 '''
 file直下のGroupは各read
